@@ -1,0 +1,11 @@
+## WeeklyReset.toc
+
+## Weekly Reset Countdown
+## Title: Weekly Reset Countdown
+## Notes: A simple addon that displays a countdown to the weekly reset.
+## Version: 1.0
+## Author: Mike Eling <mike.eling97@gmail.com>
+## Interface: 90005
+## LoadOnDemand: 0
+
+WeeklyReset.lua
