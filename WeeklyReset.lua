@@ -17,9 +17,9 @@ local function GetWeeklyResetTime()
     local currentTime = time()
     local dateTable = date("*t", currentTime)
 
-    -- Weekly reset happens on Tuesday at 8:00 AM server time (adjust as needed)
-    local resetDay = 3 -- 3 = Tuesday (1 = Sunday, 2 = Monday, etc.)
-    local resetHour = 8
+    -- Weekly reset happens on Wednesday at 5:00 AM server time (adjust as needed)
+    local resetDay = 4 -- 4 = Wednesday (1 = Sunday, 2 = Monday, etc.)
+    local resetHour = 5
     local resetMinute = 0
 
     -- Calculate the time for the next reset
